@@ -1,0 +1,38 @@
+Ciclo de vida de proyectos de ciencias de datos.
+1. delimitar el problema
+2. recolectar las data
+3. explorar y preparar los datos
+4. modelar la data
+5. comunicar y visualizar los resultados
+
+
+1. enmarcar el problema
+2. colectar datos 
+3. preparar datos 
+4. modelar
+5. evaluar 
+6. desplegar
+7. supervisar y actualizar
+
+El proceso KDD es el motor técnico del análisis de datos dentro del ciclo mas amplio que incluye 
+metas de negocio, comunicación y puesta en marcha de soluciones.
+
+
+Análisis exploratorio de datos (EDA)
+
+Es una face preliminar del ciclo de ciencia de datos y tiene como objetivo explorar, conocer y entender los datos disponibles antes de aplicar técnicas analíticas o de minería de datos.
+
+se usa para explorar conjunto de datos a fin de detectar problemas, patrones y particularidades en los datos que deben tratarse en etapas de preprocesamiento y transformación.
+
+El EDA no es para responder preguntas de negocios, sino para preparar el terreno antes de sembrar, su rol es técnico, no estratégico.
+
+Tipos de análisis de valor.
+Descriptivo: que paso
+Diagnostico: porque ocurrió
+Predictivo: que es probable que ocurra
+Prescriptivo: que acción se debe tomar
+
+
+
+
+

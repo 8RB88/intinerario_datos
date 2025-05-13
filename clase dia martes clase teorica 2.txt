@@ -1,0 +1,37 @@
+2. preprocesamiento.
+considera eliminar imperfecciones propias de las fuentes originales de las bases de datos.
+tareas típicas: limpieza de datos, integración e fuentes, resolver inconsistencias.
+
+3. transformación.
+es el enriquecimiento de datos, mejora los datos pre-procesados, con el fin de encontrar características útiles para 
+representar los datos.
+Tareas típicas: Normalización o estandarización, codificación de  variables, categorías, agregación y resumen, etc.
+
+4.mineria de datos.
+Es el proceso e aplicar algoritmos basados principalmente en machinglearnig.
+
+a)elección de la tarea de minería de datos.
+tareas como regresión, clasificación,agupamiento, asociaiones u tras.
+
+b)Seleccion e imlementacion del algoritmo.
+metodo/algoritmo para ser utilizado en la busqueda de patrones de datos.
+que es lo que me arro estos algoritmos al final de preocesar los datos.
+
+5. nterpretacion/Evaluacion.
+Se nerpretan los dpatrones descubiertos y posilemene se retorna a las anteriores etaas para posteriores iteraciones.
+El resultado dinal debe er un conocimiento acionabe para tomar deciciones.
+
+Tecnicas de mineria de datos.
+Predictivas: utilizan datos e entrenamiento etiquetados
+Descriptivas: esstas tecnicas no nesecitan tiquetas y su objetivo es explorar estructuras, relaciones o patrones ocultos.
+
+Tecnicas pedictias ( Supervisadas)
+Regresion: prevenir un valor numerico continuo.
+Clasificacion: asignar una categoria o clase a una instancia.
+Analisis de series de tiempo: Predeci valores futuros basados en el comportamiento temporal pasado.
+
+Tecnicas descriptivas.
+Asociasion: Encontrarrelciones frecuetes etr varibles o eventos.
+Agrupamiento: Agrupar instancias similres in conocer previamente las categorias.
+Patrons secueciales: Detectar secuecias de eventos que se repitan en el tiempo.
+
